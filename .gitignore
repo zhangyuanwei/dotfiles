@@ -1,0 +1,9 @@
+# Ignore all files
+*
+!.gitignore
+!.fbtermrc
+!.bash_profile
+!.bashrc
+!.bash_aliases
+!.vimrc
+!.tmux.conf
